@@ -1,15 +1,30 @@
 Android Flashlight Sample
 ===================================
 
-Wearable activity that uses your wearable screen as a flashlight. There is also
-a party-mode option, if you want to make things interesting.
+Sample demonstrating the use of an Activity in a wearable application. The
+sample uses the screen as a flashlight.
+
+Introduction
+------------
+
+Sample demonstrating the use of an Activity in a wearable application. The
+sample also demonstrates using a ViewPager allowing the user to swipe between
+Fragments.
+
+Swipe left to reveal a multi colored flashlight, swipe right to return to the
+white flashlight.
 
 Pre-requisites
 --------------
 
 - Android SDK v21
-- Android Build Tools v21.1.1
+- Android Build Tools v21.1.2
 - Android Support Repository
+
+Screenshots
+-------------
+
+<img src="screenshots/flashlight.png" height="400" alt="Screenshot"/> <img src="screenshots/party_mode.gif" height="400" alt="Screenshot"/> 
 
 Getting Started
 ---------------

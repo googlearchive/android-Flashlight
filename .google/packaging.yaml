@@ -9,4 +9,10 @@ categories:   [Wearable]
 languages:    [Java]
 solutions:    [Mobile]
 github:       android-Flashlight
+level:        BEGINNER
+icon:         screenshots/icon-web.png
+apiRefs:
+    - android:android.app.Activity
+    - android:android.app.Fragment
+    - android:android.support.v4.view.ViewPager
 license: apache2
